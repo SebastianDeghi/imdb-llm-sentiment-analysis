@@ -5,7 +5,7 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![Hugging Face](https://img.shields.io/badge/🤗-Transformers-yellow)](https://huggingface.co/)
 
-### 👥 Colaboradores: **Sofía Bobbiesi Bender, Mildre Cepeda, Sebastián Deghi y Dalma Márquez.**
+### 👥 Colaboradores: **Emmanuel Gonzalez Gomez, Sebastián Deghi, Dalma Márquez.**
 
 ---
 
